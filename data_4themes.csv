@@ -1,0 +1,40 @@
+Source,Target,Count
+External & Internal Hospital Processes,health services research,1
+External & Internal Hospital Processes,general practice,1
+External & Internal Hospital Processes,primary care,1
+External & Internal Hospital Processes,patient safety,1
+External & Internal Hospital Processes,access,1
+External & Internal Hospital Processes,covid-19,1
+External & Internal Hospital Processes,telehealth,1
+External & Internal Hospital Processes,telemedicine,1
+External & Internal Hospital Processes,emergency department,1
+External & Internal Hospital Processes,quality in health care,1
+External & Internal Hospital Processes,value-based healthcare,1
+External & Internal Hospital Processes,quality improvement,1
+Patient Dependent Features,mental health,1
+Patient Dependent Features,psychiatry,1
+Patient Dependent Features,schizophrenia,1
+Patient Dependent Features,oncology,1
+Patient Dependent Features,breast cancer,1
+Patient Dependent Features,psychometrics,1
+Patient Dependent Features,children,1
+Patient Dependent Features,diabetes,1
+Patient Dependent Features,cancer,1
+Patient Dependent Features,patient,1
+Patient Dependent Features,patient-reported outcome,1
+Patient Dependent Features,measurement,1
+Patient Dependent Features,rehabilitation,1
+Patient Dependent Features,self-management,1
+Patient Dependent Features,quality of life,1
+Patient Dependent Features,questionnaire,1
+Hospital Staff-Patient Interactions,patient reported experience measure,1
+Hospital Staff-Patient Interactions,patient experience,1
+Hospital Staff-Patient Interactions,patient satisfaction,1
+Hospital Staff-Patient Interactions,satisfaction,1
+Hospital Staff-Patient Interactions,communication,1
+Hospital Staff Interactions,HCAHPS,1
+Hospital Staff-Patient Interactions,patient engagement,1
+Hospital Staff-Patient Interactions,patient-centered care,1
+Hospital Staff-Patient Interactions,person-centred care,1
+Hospital Staff Interactions,quality of care,1
+Hospital Staff Interactions,quality of health care,1
